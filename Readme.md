@@ -1,4 +1,4 @@
-<h1>Hi! I'm Cao Hoàng Khánh Băng</h1>
+<h1>Hi! I'm LeeMinKaHo</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Italianno&color=fe215e&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Cao+Hoàng+Khánh+Băng;My+Hometown+is+Vĩnh+Long.+%F0%9F%98%84;Nice+to+Meet+You+!!!...)](https://github.com/caohoangkhanhbang)
 
@@ -37,10 +37,10 @@
 <br>
 <div align=center>
   <a href="#" title="caohoangkhanhbang">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caohoangkhanhbang&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" height="180em" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMinKaHo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" height="180em" />
   </a>
   <a href="#" title="caohoangkhanhbang">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=caohoangkhanhbang&show_icons=true&theme=react&border_color=61dafb&hide_border=true" height="180em" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=LeeMinKaHo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" height="180em" />
   </a>
 </div>
 
